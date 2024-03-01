@@ -17,3 +17,13 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+- Ejemplo de Entre Paginas : Flutlab 
+Castro Luna Nancy Yazmin a.21308051280331@cbtis128.edu.mx
+
+mis resultados de mi aplicacion
+
+![image](https://github.com/CastroNancy/p12_EntrePag/assets/143777514/9fc686ea-9dc3-419c-a7f7-0f5789de497d)
+
+![image](https://github.com/CastroNancy/p12_EntrePag/assets/143777514/8bb7a563-95eb-4226-a80b-dbf294f2d68d)
+
